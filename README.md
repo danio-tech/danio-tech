@@ -1,7 +1,7 @@
 ## I will come up with something here! Just give me some time.
 
 Here's intresting thing:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danio-tech)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielpolus367)](https://github.com/danielpolus367)
 
 <!--
 **danio-tech/danio-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
